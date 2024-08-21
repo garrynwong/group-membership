@@ -48,10 +48,36 @@ ____
 <br>
 
 
-<h3>Step 2: </h3>
-<p>Second we will be  </p>
+<h3>Step 2: Setup the location of department resources, find and add appropriate groups and share using Network File and Folder Sharing on the file server. for simplicity, I have chosen the domanin controller as the file server </h3>
+<p>                  </p>
 
-- 
+![3](https://github.com/user-attachments/assets/b9c41e46-8ddc-428c-b19c-249d3c0905f1)
+
+____
+
+
+![4](https://github.com/user-attachments/assets/b6087556-9449-43e1-8f53-e2ad19ff1d59)
+
+
+____
+
+
+![5](https://github.com/user-attachments/assets/c2986651-9912-474d-a61a-8f04f276afb7)
+
+
+
+____
+
+
+<p>If additional advanced permissions and access are needed for the resources, use the advanced sharing button </p>
+
+
+
+![6](https://github.com/user-attachments/assets/3352b14e-5955-42ad-b35e-ffcb1adca164)
+
+
+
+____
 
 <br>
 
