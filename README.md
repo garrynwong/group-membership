@@ -82,10 +82,33 @@ ____
 <br>
 
 
-<h3>Step 3: Verify, communicate and document access and membership to appropriate resources and folders </h3>
-<p>Third we will be  </p>
+<h3>Step 3: Verify, communicate and document access and membership to appropriate resources and folders from the user. in this case, that is "testuser1" in the "marketing" security group logged into a client device joined to the domain and has the network drive mapped correctly </h3>
+<p>       </p>
 
-- 
+
+![7](https://github.com/user-attachments/assets/f59afb5c-2ac5-4f3e-9414-77d82c12344a)
+
+____
+
+
+![8](https://github.com/user-attachments/assets/4f17a57b-7f75-452b-b819-3ab1940f1775)
+
+
+____
+
+
+![9](https://github.com/user-attachments/assets/18169fcc-bc91-4403-9855-0a39b869c06c)
+
+
+____
+
+
+![10](https://github.com/user-attachments/assets/ea537d50-4f07-4dfd-85fb-30690427272c)
+
+
+
+____
+
 
 <br>
 
