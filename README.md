@@ -102,6 +102,8 @@ ____
 
 ____
 
+<h3>Step 4: if control is not correct for the appropriate group, they can be adjusted using the Advanced Settings under the Security tab </h3>
+
 
 ![10](https://github.com/user-attachments/assets/ea537d50-4f07-4dfd-85fb-30690427272c)
 
