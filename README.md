@@ -39,11 +39,10 @@ ____
 
 ____
 
-<br>
 
 
-<h3>Step 2: Setup the location of department resources, find and add appropriate groups and share using Network File and Folder Sharing on the file server. for simplicity, I have chosen the domanin controller as the file server </h3>
-<p>                  </p>
+<h3>Step 2: </h3>
+<p> Setup the location of department resources. Find and add appropriate groups and share using Network File and Folder Sharing on the file server. I have chosen the domain controller as the file server </p>
 
 ![3](https://github.com/user-attachments/assets/b9c41e46-8ddc-428c-b19c-249d3c0905f1)
 
