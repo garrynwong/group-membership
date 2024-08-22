@@ -1,17 +1,8 @@
 <h1> Active Directory: Group Membership </h1>
 
 
-<p>Welcome to the "Active Directory Group Membership" project. In this project, we'll  </p>
+<p>In this project, we'll  </p>
 
-<h2>Prerequisites</h2>
-
-- <a> </a>
-
-<h2>Key Objectives</h2>
-
-<h4>Group Membership</h4>
-
--  
 
 <h2>Environments and Technologies Used</h2>
 
