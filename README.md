@@ -23,14 +23,15 @@
 
 <h1>Group Membership</h1>
 
-<h3>Step 1:
-Locate and review current group memberships for user.  Add/remove group memberships until desired configuration</h3>
-<p>"Marketing" is used as an example of a department in an enterprise environment. In this case, we are using security groups for access and control of domain resources. </p>
+<h3>Step 1: </h3>
+<p> Locate and review current group memberships for user.  </p>
 
 
 ![1](https://github.com/user-attachments/assets/f5779d4b-a62b-4a17-8184-3b1002569180)
 
 ____
+
+<p> Add/remove group memberships until desired configuration. "Marketing" is used as an example of a department in an enterprise environment. In this case, we are using security groups for access and control of domain resources. </p>
 
 
 ![2](https://github.com/user-attachments/assets/135b9507-3ab8-4124-a49d-31389f5929bb)
