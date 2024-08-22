@@ -62,7 +62,7 @@ ____
 ____
 
 
-<p>If additional advanced permissions and access are needed for the resources, use the advanced sharing button </p>
+<p> If any additional advanced permissions and/or access are needed on any groups added to the resources, use the advanced sharing button </p>
 
 
 
@@ -75,8 +75,8 @@ ____
 <br>
 
 
-<h3>Step 3: Verify, communicate and document access and membership to appropriate resources and folders from the user. in this case, that is "testuser1" in the "marketing" security group logged into a client device joined to the domain and has the network drive mapped correctly </h3>
-<p>       </p>
+<h3>Step 3: </h3>
+<p> Verify, communicate and document access and membership to appropriate resources and folders from the user. in this case, that is "testuser1" in the "marketing" security group logged into a client device joined to the domain and has the network drive mapped correctly </p>
 
 
 ![7](https://github.com/user-attachments/assets/f59afb5c-2ac5-4f3e-9414-77d82c12344a)
@@ -95,7 +95,7 @@ ____
 
 ____
 
-<h3>Step 4: if control is not correct for the appropriate group, they can be adjusted using the Advanced Settings under the Security tab </h3>
+<h3>Step 4: Network drive control can also be adjusted using the Advanced Settings under the Security tab </h3>
 
 
 ![10](https://github.com/user-attachments/assets/ea537d50-4f07-4dfd-85fb-30690427272c)
