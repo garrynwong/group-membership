@@ -97,6 +97,7 @@ ____
 
 <h3>Step 4: Network drive control can also be adjusted using the Advanced Settings under the Security tab </h3>
 
+Network drive security can also be adjusted here using the Advanced Settings under the Security tab
 
 ![10](https://github.com/user-attachments/assets/ea537d50-4f07-4dfd-85fb-30690427272c)
 
