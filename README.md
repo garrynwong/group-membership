@@ -7,8 +7,9 @@
 <h2>Environments and Technologies Used</h2>
 
 - Hyper-V (Virtual Machines/Compute)
-- Remote Desktop
 - Active Directory
+- Network File and Folder Sharing
+- Network Drive Mapping & Security
 
 <h2>Operating Systems Used </h2>
 
