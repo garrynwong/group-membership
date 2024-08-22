@@ -23,7 +23,8 @@
 
 <h1>Group Membership</h1>
 
-<h3>Step 1: Locate and review current group memberships for user.  Add/remove group memberships until desired configuration</h3>
+<h3>Step 1:
+Locate and review current group memberships for user.  Add/remove group memberships until desired configuration</h3>
 <p>"Marketing" is used as an example of a department in an enterprise environment. In this case, we are using security groups for access and control of domain resources. </p>
 
 
