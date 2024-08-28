@@ -1,7 +1,7 @@
 <h1> Active Directory: Group Membership </h1>
 
 
-<p>In this project, we'll  </p>
+<p>In this project, we'll be  </p>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -10,6 +10,7 @@
 - Active Directory
 - Network File and Folder Sharing
 - Network Drive Mapping & Security
+- Security Groups
 
 <h2>Operating Systems Used </h2>
 
@@ -112,4 +113,4 @@ ____
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the "Active Directory Group Membershu=ip" project streamlines our  .</p>
+<p> In closing, the "Active Directory Group Membership" project streamlines our  .</p>
