@@ -112,4 +112,4 @@ ____
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the "Active Directory User Generation" project streamlines our  .</p>
+<p> In closing, the "Active Directory Group Membershu=ip" project streamlines our  .</p>
